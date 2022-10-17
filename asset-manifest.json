@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PavelFilimonchik/HomeWork.git/static/css/main.f82bcb48.css",
+    "main.js": "/PavelFilimonchik/HomeWork.git/static/js/main.9cce2d8f.js",
+    "static/js/787.66cb4309.chunk.js": "/PavelFilimonchik/HomeWork.git/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/PavelFilimonchik/HomeWork.git/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/PavelFilimonchik/HomeWork.git/index.html",
+    "main.f82bcb48.css.map": "/PavelFilimonchik/HomeWork.git/static/css/main.f82bcb48.css.map",
+    "main.9cce2d8f.js.map": "/PavelFilimonchik/HomeWork.git/static/js/main.9cce2d8f.js.map",
+    "787.66cb4309.chunk.js.map": "/PavelFilimonchik/HomeWork.git/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f82bcb48.css",
+    "static/js/main.9cce2d8f.js"
+  ]
+}
