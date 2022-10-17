@@ -1,0 +1,46 @@
+.message {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 48px;
+}
+
+.imageAndText {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.imageAndText img {
+    width: 40px;
+}
+
+.text {
+    background-color: #0066CC;
+    border-radius: 10px;
+    margin-right: 5px;
+}
+
+.text:after {
+
+}
+
+.name {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 18px;
+    color: white;
+    padding-top: 8px;
+    padding-right: 13px;
+    font-weight: bold;
+}
+
+.messageText {
+    font-size: 10px;
+    color: white;
+    padding: 8px 13px;
+}
+
+.time {
+    display: flex;
+    justify-content: center;
+    font-size: 10px;
+}
